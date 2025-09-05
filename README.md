@@ -1,12 +1,22 @@
 # GBPCloudMonitor-back
 
+## Description
+- This is the repository for backend of the GBP cloud monitor system.
 
+## Basic rules
+- All members please do not make any change on main branch.
+- Create your own branch in the format of (task_issue_no)_(your_name)_(task_name). For example, 26_Yan_user_authentication.
+- Merge request into main branch must be carried out under team leader's confirmation.
 
 ## Getting started
-
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+- Docker cmd for building and running the project:
+``` bash
+docker compose up
+```
+- Docker cmd for clearing up the project including database:
+``` bash
+docker compose down -v
+```
 
 ## Add your files
 
