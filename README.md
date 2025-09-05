@@ -5,7 +5,7 @@
 
 ## Basic rules
 - All members please do not make any change on main branch.
-- Create your own branch in the format of (task_issue_no)_(your_name)_(task_name). For example, 26_Yan_user_authentication.
+- Create your own branch in the format of `(task_issue_no)_(your_name)_(task_name)`. For example: `26_Yan_user_authentication`.
 - Merge request into main branch must be carried out under team leader's confirmation.
 
 ## Getting started
