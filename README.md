@@ -101,3 +101,6 @@ For open source projects, say how it is licensed.
 
 ## Project status
 https://drive.google.com/file/d/1tS5W70hHoswLU5b4PSA93_JQ-JdeRiEV/view?usp=sharing
+
+VM: https://drive.google.com/file/d/1zaLRCroqjEOAce36CmOUWXel2p6ggVGw/view?usp=drive_link
+VM-installer: https://drive.google.com/file/d/1wQf84_xZ-2pjGt5bJNRP-Dk5CGVQ849K/view?usp=sharing
